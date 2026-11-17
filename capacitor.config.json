@@ -1,0 +1,7 @@
+{
+  "appId": "com.alphainventor.filemanager",
+  "appName": "File Manager+",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": {}
+}
